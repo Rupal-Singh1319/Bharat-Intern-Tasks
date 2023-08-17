@@ -1,2 +1,2 @@
 # Bharat-Intern-Tasks
-This repository consists of Bharat Intern Tasks which assigned me by Bharat Intern internship program "Full stack developer Intern".
+In this repository, I will upload Bharat Intern tasks assigned to me under the "Full stack developer intern" programme.
